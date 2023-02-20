@@ -1,5 +1,6 @@
 WEBページ　[TypeSplash](https://typesplash2.vercel.app/)
-
+![スクリーンショット 2023-02-21 0 28 19](https://user-images.githubusercontent.com/3797539/220146640-9179ca8c-6257-4fd5-9a2d-394fe08d03c7.png)
+![スクリーンショット 2023-02-21 0 38 45](https://user-images.githubusercontent.com/3797539/220178243-ff2e08e4-1e27-4e61-a110-a96375b38ba4.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
