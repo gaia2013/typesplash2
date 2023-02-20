@@ -9,7 +9,7 @@ const Header: React.FC<Props> = ({ children }) => {
   return (
     <>
       <div className="Header">
-        <span className="Header__Logo">TypeScrash</span>
+        <span className="Header__Logo">TypeSplash</span>
         {children}
       </div>
     </>
